@@ -30,3 +30,6 @@ Il n&#39;est donc pas préférable de commander plusieurs leds à la fois.
 L&#39;astuce du système est de ne jamais allumer plus d&#39;une led à la fois tout en ayant une fréquence d&#39;allumage suffisament grande afin de finter l&#39;œil humain. En effet, en faisant clignoter une led avec une fréquence supérieur à celle de l&#39;œil humain ( supérieur à 85 Hz), on a l&#39;impression que la led est alumée normalement.
 
 On peut donc réaliser différentes figures avec les leds tout en contournant le problème.
+
+
+*Projet réalisé en 2018*
