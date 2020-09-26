@@ -1,4 +1,4 @@
-# Cube-led-3x3x3 # 
+# Cube à led 3x3x3 # 
 
 ## Objectif : ##
 
