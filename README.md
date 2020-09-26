@@ -32,4 +32,4 @@ L&#39;astuce du système est de ne jamais allumer plus d&#39;une led à la fois 
 On peut donc réaliser différentes figures avec les leds tout en contournant le problème.
 
 
-*Projet réalisé en 2018*
+### *Projet réalisé en 2018*
