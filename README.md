@@ -1,6 +1,6 @@
 # Cube à led 3x3x3 # 
 
-## Objectif : ##
+## Description : ##
 
 Projet visant à la réalisation d&#39;un objet de décoration. Utilisant la couleur des leds pour créer des animations.
 
